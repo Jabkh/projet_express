@@ -1,7 +1,5 @@
 # projet_express
 exercice bibliotheque mvc pug express mysql
-# projet_express
-exercice bibliotheque mvc pug express mysql
 
 Description du Projet
 
@@ -25,7 +23,7 @@ package.json: Fichier de configuration npm pour les dépendances du projet.
 
 Installation et Utilisation
 
-Clonez le repository : git clone https://github.com/votre-utilisateur/bibliotheque-en-ligne.git
+Clonez le repository : git clone [https://github.com/votre-utilisateur/bibliotheque-en-ligne.git](https://github.com/Jabkh/projet_express.git)
 Installez les dépendances : npm install
 Configurez la base de données dans le fichier config.js.
 Exécutez l'application : node app.js ou npm start
