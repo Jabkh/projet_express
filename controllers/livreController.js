@@ -1,7 +1,5 @@
-// controllers/livreController.js
 const Livre = require('../models/livre');
 
-// controllers/livreController.js
 const getAllLivres = (req, res) => {
   Livre.getAllLivres((err, livres) => {
     if (err) {

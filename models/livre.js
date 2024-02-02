@@ -1,10 +1,6 @@
 const db = require('../config/db');
 require('dotenv').config(); // Charge les variables d'environnement depuis le fichier .env
 
-// const getAllUsers = (callback) => {
-//   db.query('SELECT * FROM users', callback);
-// };
-
 const Livre = {
   getAllLivres: (callback) => {
     db.query('SELECT * FROM livres', callback);

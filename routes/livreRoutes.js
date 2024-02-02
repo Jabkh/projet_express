@@ -1,4 +1,3 @@
-// routes/livreRoutes.js
 const express = require('express');
 const router = express.Router();
 const livreController = require('../controllers/livreController');
